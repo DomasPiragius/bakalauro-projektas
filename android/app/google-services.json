@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "173137937387",
+    "firebase_url": "https://map-app-5d37e.firebaseio.com",
+    "project_id": "map-app-5d37e",
+    "storage_bucket": "map-app-5d37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173137937387:android:a01848460ddda0622dcfae",
+        "android_client_info": {
+          "package_name": "com.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173137937387-t6og82dd0r2051niouu3np8ep0gqjp9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneymanager",
+            "certificate_hash": "e8e435099bc3882f3bdc7773e0948525579a5da7"
+          }
+        },
+        {
+          "client_id": "173137937387-cc98gqj4pktf49lc01eg5btgc6joheph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneymanager",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "173137937387-vq1m100n65hoj5g6ud942aagccmd3266.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9grnKvjotASD08HCeiEQBGCF9K7ELLWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173137937387-vq1m100n65hoj5g6ud942aagccmd3266.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
